@@ -22,13 +22,13 @@ repository               : "https://github.com/YoungjuNa-KR/youngju.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Youngju Na"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Korea, South"
+  employer         : "Korea Advanced Institute of Science and Technology (KAIST)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yjna2907@kaist.ac.kr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
