@@ -8,26 +8,26 @@
 
 # Basic Site Settings
 locale                   : "en-KR"
-title                    : "Youngju Na / Youngju Na"
+title                    : "Youngju Na"
 title_separator          : "-"
 name                     : &name "Youngju Na"
 description              : &description "M.S. Student @ KAIST"
-url                      : https://youngju.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://youngju-na.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/YoungjuNa-KR/youngju.github.io"
+repository               : "youngju-na.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "youngju.jpg"
   name             : "Youngju Na"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Korea, South"
-  employer         : "Korea Advanced Institute of Science and Technology (KAIST)"
-  uri              : # URL
+  bio              : "M.S. Student @ KAIST CS"
+  location         : "Daejeon, Korea"
+  employer         : "[KAIST](cs.kaist.ac.kr)"
+  # uri              : cs.kaist.ac.kr
   email            : "yjna2907@kaist.ac.kr" 
 
   # Academic websites
